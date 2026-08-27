@@ -1,4 +1,3 @@
-raw_03_türkiye_generation_yearly
 entity,entity_code,is_aggregate_entity,date,series,is_aggregate_series,generation_twh,generation_share_pct,generation_kwh_per_capita,generation_yoy_change_twh,generation_yoy_change_pct,generation_share_yoy_change_pct_points,generation_yoy_change_kwh_per_capita
 Türkiye,TUR,FALSE,2000,Bioenergy,FALSE,0.17,0.14,2.6,0.04,30.77,0.02,0.58
 Türkiye,TUR,FALSE,2000,Coal,FALSE,38.19,30.7,583.71,1.16,3.13,-1.1,10.42

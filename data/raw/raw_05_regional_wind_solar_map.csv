@@ -1,4 +1,3 @@
-group1_europe_west_south
 entity,entity_code,is_aggregate_entity,date,series,is_aggregate_series,generation_twh,generation_share_pct,generation_kwh_per_capita,generation_yoy_change_twh,generation_yoy_change_pct,generation_share_yoy_change_pct_points,generation_yoy_change_kwh_per_capita
 Germany,DEU,FALSE,2025,Solar,FALSE,89.62,17.93,1065.95,15.49,20.9,2.98,189.22
 Germany,DEU,FALSE,2025,Wind,FALSE,136.03,27.21,1617.96,-5.57,-3.93,-1.34,-56.75
