@@ -1,4 +1,3 @@
-
 # European & Regional Energy Transition: Decarbonization Dynamics and Grid Structural Shifts
 
 This repository contains curated datasets, analytical workflows, and visual assets examining the structural transformation of European and regional power grids (2000–2025). The research models the empirical shift from fossil-fuel reliance toward variable renewable energy (VRE), tracking coal phase-out trajectories, national generation mix topologies, and capacity addition dynamics.
@@ -37,6 +36,9 @@ Primary datasets are compiled and harmonized from the   **Ember Electricity Da
 
 - **Primary Data Provider:** Ember
 - **Curation & Analytical Modeling:** Selçuk Çelik
+
+* **Analytical Engine:** [Orange Data Mining](https://orangedatamining.com/) (Statistical workflows & hierarchical clustering)
+* **Visualization Tooling:** [Flourish Studio](https://flourish.studio/) (Interactive charts & spatial mapping)
 
 ---
 
