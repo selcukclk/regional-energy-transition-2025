@@ -1,28 +1,26 @@
 Country,Code,Region,Wind_Solar_Share_Pct,Custom_Label
 Denmark,DNK,Europe,72.08,
 Netherlands,NLD,Europe,46.09,
-Germany,DEU,Europe,45.14,0.45
+Germany,DEU,Europe,45.14,45%
 Portugal,PRT,Europe,44.08,
 Ireland,IRL,Europe,42.76,
-Spain,ESP,Europe,42.26,0.42
-Greece,GRC,Europe,40.64,0.4
+Spain,ESP,Europe,42.26,42%
+Greece,GRC,Europe,40.64,
 United Kingdom,GBR,Europe,36.0,
-Sweden,SWE,Europe,25.45,0.25
-Hungary,HUN,Europe,28.78,0.28
-Poland,POL,Europe,25.22,0.25
-Italy,ITA,Europe,24.95,0.25
-Bulgaria,BGR,Europe,21.67,0.21
-Romania,ROU,Europe,21.78,0.21
+Sweden,SWE,Europe,25.45,25%
+Hungary,HUN,Europe,28.78,29%
+Poland,POL,Europe,25.22,25%
+Italy,ITA,Europe,24.95,25%
+Bulgaria,BGR,Europe,21.67,22%
+Romania,ROU,Europe,21.78,22%
 Belgium,BEL,Europe,32.58,
 Austria,AUT,Europe,25.39,
-Finland,FIN,Europe,28.63,0.28
-Turkey,TUR,Focus,21.67,0.21
-Israel,ISR,Middle East,16.74,0.16
-Egypt,EGY,Middle East,6.88,0.06
-Saudi Arabia,SAU,Middle East,2.0,0.02
-Iran,IRN,Middle East,0.54,1.0
-Kazakhstan,KAZ,Central Asia,6.36,0.06
-Uzbekistan,UZB,Central Asia,12.11,0.12
+Finland,FIN,Europe,28.63,28%
+Turkey,TUR,Focus,21.67,22%
+Israel,ISR,Middle East,16.74,16%
+Egypt,EGY,Middle East,6.88,6%
+Saudi Arabia,SAU,Middle East,2.0,2%
+Iran,IRN,Middle East,0.54,1%
 Armenia,ARM,Caucasus,8.47,
 Georgia,GEO,Caucasus,0.82,1.0
 Lithuania,LTU,Excluded,,
@@ -45,8 +43,6 @@ Kuwait,KWT,Excluded,,
 Qatar,QAT,Excluded,,
 Bahrain,BHR,Excluded,,
 Turkmenistan,TKM,Excluded,,
-Tajikistan,TJK,Excluded,,
-Kyrgyzstan,KGZ,Excluded,,
 Ukraine,UKR,Excluded,,
 Belarus,BLR,Excluded,,
 Moldova,MDA,Excluded,,
