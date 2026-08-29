@@ -1,4 +1,4 @@
-entity,entity_code,is_aggregate_entity,date,series,is_aggregate_series,capacity_gw,capacity_share_pct,capacity_yoy_change_gw,capacity_yoy_change_pct,capacity_share_yoy_change_pct_points,capacity_gw_prev,capacity_w_per_capita
+entity,entity_code,is_aggregate_entity,date,series,is_aggregate_series,capacity_gw,capacity_share_pct,capacity_yoy_change_gw,capacity_yoy_change_pct,capacity_share_yoy_change_pct_points,capacity_gw_prev,
 Türkiye,TUR,FALSE,2015,Solar,FALSE,0.25,0.37,0.21,525,0.3,0.04,
 Türkiye,TUR,FALSE,2015,Wind,FALSE,4.5,6.58,0.87,23.97,0.9,3.63,
 Türkiye,TUR,FALSE,2015,Wind and solar,TRUE,4.75,6.95,1.08,29.43,1.2,3.67,
