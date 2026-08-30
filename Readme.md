@@ -1,7 +1,6 @@
-
 # 22% Green, 34% Coal: Türkiye's Energy Transition vs. Europe
 
-This repository contains the curated datasets, Python analytical pipelines, and visual assets supporting the data story** ** **"22% Green, 34% Coal: Where Does Türkiye Stand in Europe?"** .
+This repository contains the curated datasets, Python analytical pipelines, and visual assets supporting the data story **"22% Green, 34% Coal: Where Does Türkiye Stand in Europe?"** .
 
 It evaluates the structural decarbonization of European power systems, contrasting the continent's direct displacement of coal through wind expansion with Türkiye's dual reality of rapid renewable growth, persistent imported coal reliance, and an unprecedented 33 GW battery storage (BESS) pipeline.
 
