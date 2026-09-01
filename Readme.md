@@ -1,8 +1,8 @@
 # 22% Green, 34% Coal: Türkiye's Energy Transition vs. Europe
 
-This repository contains the curated datasets, Python analytical pipelines, and visual assets supporting the data story **"22% Green, 34% Coal: Where Does Türkiye Stand in Europe?"** .
+This repository contains the curated datasets, and visual assets supporting the data story **"22% Green, 34% Coal: Where Does Türkiye Stand in Europe?"** .
 
-It evaluates the structural decarbonization of European power systems, contrasting the continent's direct displacement of coal through wind expansion with Türkiye's dual reality of rapid renewable growth, persistent imported coal reliance, and an unprecedented 33 GW battery storage (BESS) pipeline.
+This project compares power sector decarbonization in Europe vs. Türkiye. It highlights Europe’s direct coal-to-wind transition alongside Türkiye’s rapid renewable rollout, ongoing coal reliance, and 33 GW BESS pipeline.
 
 - **Author:** Selçuk Çelik
 - **Blog Post:** https://dataparadox.medium.com
@@ -37,7 +37,7 @@ This study analyzes generation time series and cross-sectional grid metrics to e
 
 Primary datasets are compiled and harmonized from the   **Ember Electricity Data Explorer** and official energy market reporting frameworks. Data curation, metric standardization, and statistical modeling were structured to ensure reproducible computational research.
 
-- **Primary Data Provider:** Ember
+- **Primary Data Provider:** [Ember](https://ember-climate.org/) 
 - **Curation & Analytical Modeling:** Selçuk Çelik
 
 * **Analytical Engine:** [Orange Data Mining](https://orangedatamining.com/) (Statistical workflows & hierarchical clustering)
